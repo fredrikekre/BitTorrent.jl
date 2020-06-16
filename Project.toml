@@ -1,0 +1,8 @@
+name = "BitTorrent"
+uuid = "8942d924-c273-48fe-b0b1-7856c815e253"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

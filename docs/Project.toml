@@ -1,0 +1,3 @@
+[deps]
+BitTorrent = "8942d924-c273-48fe-b0b1-7856c815e253"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
