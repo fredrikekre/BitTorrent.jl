@@ -6,4 +6,6 @@ https://fredrikekre.github.io/BitTorrent.jl/ for documentation.
 """
 module BitTorrent
 
+include("bencode.jl")
+
 end # module
